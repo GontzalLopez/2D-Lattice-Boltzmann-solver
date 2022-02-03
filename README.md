@@ -21,4 +21,4 @@ cd Results
 python2 postScript.py
 ```
 
-![](Results/Results_20000.png)
+![](2D_LatticeBoltzmann/Results/Results_20000.png)
