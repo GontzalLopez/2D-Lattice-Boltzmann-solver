@@ -21,4 +21,4 @@ cd Results
 python2 postScript.py
 ```
 
-![](2D_LatticeBoltzmann/Results/Results_20000.png| width=100)
+![](2D_LatticeBoltzmann/Results/Results_20000.png)
