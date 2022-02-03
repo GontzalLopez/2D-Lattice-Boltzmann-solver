@@ -1,0 +1,25 @@
+/	NumIt	--> Number of iterations
+/	uLB	--> the inlet velocity should be small, to ensure an incompressible flow, the inlet velocity can be chosen about 0.1 or less
+/	nuLB	--> the lattice viscosity is related to the relaxation time which must be greater than 0.5.
+/	Re	--> select Re laminar
+/	aspectRatio	-->Relation between the lenghth and the width of the domain
+/	obstacleName	-->3 type of obstacles are programmed: squares, cylinder, rectangle 
+/	walls?	--> activate top and bottom walls if "rectangle" obstacle is selected
+
+
+
+
+		
+		       topWall or periodic (default) / j=0
+	 ________________________________________________________________
+	|								 |	
+	|								 |	
+	|								 |	
+	|								 |	
+    inlet / i=0		            ----->			outlet / i=Nx	
+	|								 |	
+	|								 |	
+	|								 |
+	|________________________________________________________________|
+			
+			bottomWall or periodic (default) / j=Ny

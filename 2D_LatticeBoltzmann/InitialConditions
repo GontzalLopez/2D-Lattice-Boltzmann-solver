@@ -1,0 +1,16 @@
+NumIt	150000
+uLB	0.1
+nuLB	0.025
+Re	150
+aspectRatio	2.5
+saveInterval	500
+firstSaved	5000
+obstacleName	squares
+walls?	no
+
+		
+
+
+
+
+	
